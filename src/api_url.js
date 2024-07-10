@@ -1,1 +1,1 @@
-export const Api_url='http://localhost:3001';
+export const Api_url='https://i-travel-backend.onrender.com';
